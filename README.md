@@ -82,7 +82,14 @@ Digital transformation platform for Latin American businesses. Microservice arch
 **Key achievements:** 40% fewer sync errors · 500+ products managed · Zero data loss incidents
 
 ---
+### [Data Dashboard — Enterprise 3D Metrics](https://github.com/DeveloperSAC/Data-Dashboard)
+> React Three Fiber · Three.js · Node.js · Docker · Express
 
+Enterprise dashboard for real-time critical metrics visualization. 60 FPS stable WebGL with instancedMesh, resilient Node.js backend with Retry Patterns, Helmet security and Docker orchestration for instant cloud deployment.
+
+**Key achievements:** 60 FPS stable · Docker ready · AWS/DigitalOcean/Azure deploy
+
+---
 ### [Chess Trainer — 3D Educational Platform](https://github.com/DeveloperSAC)
 > React Three Fiber · WebGL · TypeScript · JWT · AI Integration
 
